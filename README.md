@@ -2,7 +2,7 @@
 <h3 align="center">I am a BTech Student at TIET</h3>
 
 <p align="center">
-  <img width="480" height="360" src="https://github.com/HarshKumat/HarshKumat/blob/main/Kinto%20Un.webp">
+  <img width="240" height="180" src="https://github.com/HarshKumat/HarshKumat/blob/main/Kinto%20Un.webp">
   
 </p>
 
