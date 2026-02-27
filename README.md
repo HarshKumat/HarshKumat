@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Kumat</h1>
-<h3 align="center">I am a BTech Student at TIET</h3>
+<h3 align="center">I am an Intern at Bain Capabilities Network(BCN)</h3>
 
 <p align="center">
   <img width="240" height="180" src="https://github.com/HarshKumat/HarshKumat/blob/main/Kinto%20Un.webp">
